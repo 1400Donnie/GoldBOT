@@ -1,0 +1,8 @@
+# Never commit your Kalshi keys
+.env
+*.pem
+*.key
+signals.csv
+__pycache__/
+.venv/
+.pytest_cache/
